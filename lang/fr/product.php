@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'Cours',
+  'courses' => 'Cours',
+  'text_course' => 'Cours de texte',
+  'video_course' => 'Cours vidéo',
+  'information' => 'Information',
+  'content' => 'Contenu',
+  'review' => 'Revoir',
+  'reviews' => 'Commentaires',
+  'Webinar_description' => 'À propos de ce cours',
+  'post_comment' => 'Poster un commentaire',
+  'post_review' => 'Révision de la publication',
+  'comment_success_store' => 'Commentaire envoyé avec succès!',
+  'comment_success_store_msg' => 'Votre commentaire sera publié après approuvé par l\'administrateur.',
+  'guarantee_text' => 'Garantie de remboursement de 5 jours',
+  'product_designer' => 'Concepteur de produits',
+  'content_quality' => 'Qualité du contenu',
+  'instructor_skills' => 'Compétences de l\'instructeur',
+  'purchase_worth' => 'Valeur d\'achat',
+  'support_quality' => 'Qualité du soutien',
+  'report_the_course' => 'Cours de rapport',
+  'reason' => 'Raison',
+  'select_reason' => 'Sélectionnez une raison',
+  'report_modal_hint' => 'Veuillez décrire le rapport court et clairement.',
+);

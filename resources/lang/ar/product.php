@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'دورة',
+  'courses' => 'الدورات',
+  'text_course' => 'دورة النص',
+  'video_course' => 'دورة الفيديو',
+  'information' => 'معلومة',
+  'content' => 'محتوى',
+  'review' => 'مراجعة',
+  'reviews' => 'المراجعات',
+  'Webinar_description' => 'حول هذه الدورة',
+  'post_comment' => 'أضف تعليقا',
+  'post_review' => 'مراجعة آخر',
+  'comment_success_store' => 'تم إرسال التعليق بنجاح!',
+  'comment_success_store_msg' => 'سيتم نشر تعليقك بعد الموافقة عليه من قبل المسؤول.',
+  'guarantee_text' => '5 أيام ضمان استعادة المال',
+  'product_designer' => 'مصمم المنتج',
+  'content_quality' => 'جودة المحتوى',
+  'instructor_skills' => 'مهارات المدرب',
+  'purchase_worth' => 'شراء قيمة',
+  'support_quality' => 'جودة الدعم',
+  'report_the_course' => 'دورة التقرير',
+  'reason' => 'سبب',
+  'select_reason' => 'اختر سببا',
+  'report_modal_hint' => 'يرجى وصف حول التقرير قصير وواضح.',
+);

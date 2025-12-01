@@ -1,0 +1,1444 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?p720p');
+  src:  url('fonts/icomoon.eot?p720p#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?p720p') format('truetype'),
+    url('fonts/icomoon.woff?p720p') format('woff'),
+    url('fonts/icomoon.svg?p720p#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-camonea .path1:before {
+  content: "\ea84";
+  color: rgb(252, 252, 252);
+}
+.icon-camonea .path2:before {
+  content: "\ea85";
+  margin-left: -1em;
+  color: rgb(252, 228, 28);
+}
+.icon-camonea .path3:before {
+  content: "\ea86";
+  margin-left: -1em;
+  color: rgb(244, 143, 28);
+}
+.icon-camonea .path4:before {
+  content: "\ea87";
+  margin-left: -1em;
+  color: rgb(252, 204, 28);
+}
+.icon-camonea .path5:before {
+  content: "\ea88";
+  margin-left: -1em;
+  color: rgb(244, 118, 28);
+}
+.icon-cedronella-icon .path1:before {
+  content: "\ea89";
+  color: rgb(252, 12, 12);
+}
+.icon-cedronella-icon .path2:before {
+  content: "\ea8a";
+  margin-left: -1em;
+  color: rgb(244, 14, 12);
+}
+.icon-cedronella-icon .path3:before {
+  content: "\ea8b";
+  margin-left: -1em;
+  color: rgb(252, 20, 12);
+}
+.icon-doringa-icon .path1:before {
+  content: "\ea8c";
+  color: rgb(249, 250, 249);
+}
+.icon-doringa-icon .path2:before {
+  content: "\ea8d";
+  margin-left: -1em;
+  color: rgb(76, 124, 92);
+}
+.icon-doringa-icon .path3:before {
+  content: "\ea8e";
+  margin-left: -1em;
+  color: rgb(163, 188, 172);
+}
+.icon-doringa-icon .path4:before {
+  content: "\ea8f";
+  margin-left: -1em;
+  color: rgb(132, 164, 147);
+}
+.icon-doringa-icon .path5:before {
+  content: "\ea90";
+  margin-left: -1em;
+  color: rgb(107, 148, 123);
+}
+.icon-maqamkareem .path1:before {
+  content: "\ea91";
+  color: rgb(183, 36, 36);
+}
+.icon-maqamkareem .path2:before {
+  content: "\ea92";
+  margin-left: -1em;
+  color: rgb(129, 28, 26);
+}
+.icon-maqamkareem .path3:before {
+  content: "\ea93";
+  margin-left: -1em;
+  color: rgb(229, 176, 179);
+}
+.icon-maqamkareem .path4:before {
+  content: "\ea94";
+  margin-left: -1em;
+  color: rgb(152, 28, 29);
+}
+.icon-maqamkareem .path5:before {
+  content: "\ea95";
+  margin-left: -1em;
+  color: rgb(202, 96, 100);
+}
+.icon-ribano .path1:before {
+  content: "\ea96";
+  color: rgb(82, 130, 59);
+}
+.icon-ribano .path2:before {
+  content: "\ea97";
+  margin-left: -1em;
+  color: rgb(244, 159, 43);
+}
+.icon-ribano .path3:before {
+  content: "\ea98";
+  margin-left: -1em;
+  color: rgb(250, 247, 239);
+}
+.icon-ribano .path4:before {
+  content: "\ea99";
+  margin-left: -1em;
+  color: rgb(113, 148, 97);
+}
+.icon-ribano .path5:before {
+  content: "\ea9a";
+  margin-left: -1em;
+  color: rgb(146, 167, 124);
+}
+.icon-tarateesh-icon .path1:before {
+  content: "\ea9b";
+  color: rgb(252, 247, 247);
+}
+.icon-tarateesh-icon .path2:before {
+  content: "\ea9c";
+  margin-left: -1em;
+  color: rgb(244, 4, 4);
+}
+.icon-tarateesh-icon .path3:before {
+  content: "\ea9d";
+  margin-left: -1em;
+  color: rgb(252, 90, 90);
+}
+.icon-tarateesh-icon .path4:before {
+  content: "\ea9e";
+  margin-left: -1em;
+  color: rgb(252, 132, 132);
+}
+.icon-tarateesh-icon .path5:before {
+  content: "\ea9f";
+  margin-left: -1em;
+  color: rgb(252, 124, 124);
+}
+.icon-kemereit .path1:before {
+  content: "\e94c";
+  color: rgb(232, 195, 191);
+}
+.icon-kemereit .path2:before {
+  content: "\ea13";
+  margin-left: -1em;
+  color: rgb(204, 45, 29);
+}
+.icon-kemereit .path3:before {
+  content: "\ea40";
+  margin-left: -1em;
+  color: rgb(68, 36, 19);
+}
+.icon-kemereit .path4:before {
+  content: "\ea41";
+  margin-left: -1em;
+  color: rgb(200, 118, 109);
+}
+.icon-kemereit .path5:before {
+  content: "\ea42";
+  margin-left: -1em;
+  color: rgb(144, 103, 95);
+}
+.icon-kemedar-auction .path1:before {
+  content: "\ea43";
+  color: rgb(187, 35, 36);
+}
+.icon-kemedar-auction .path2:before {
+  content: "\ea44";
+  margin-left: -0.9580078125em;
+  color: rgb(231, 100, 36);
+}
+.icon-kemedar-auction .path3:before {
+  content: "\ea45";
+  margin-left: -0.9580078125em;
+  color: rgb(103, 31, 20);
+}
+.icon-kemedar-auction .path4:before {
+  content: "\ea46";
+  margin-left: -0.9580078125em;
+  color: rgb(4, 4, 4);
+}
+.icon-kemedar-auction .path5:before {
+  content: "\ea47";
+  margin-left: -0.9580078125em;
+  color: rgb(79, 36, 20);
+}
+.icon-kemeange-icon-transperent .path1:before {
+  content: "\ea48";
+  color: rgb(244, 208, 198);
+}
+.icon-kemeange-icon-transperent .path2:before {
+  content: "\ea49";
+  margin-left: -1.0244140625em;
+  color: rgb(181, 51, 37);
+}
+.icon-kemecademy-icon .path1:before {
+  content: "\ea4a";
+  color: rgb(20, 20, 4);
+}
+.icon-kemecademy-icon .path2:before {
+  content: "\ea4b";
+  margin-left: -0.8662109375em;
+  color: rgb(187, 35, 36);
+}
+.icon-kemecard-icon-tranport .path1:before {
+  content: "\ea4c";
+  color: rgb(241, 206, 201);
+}
+.icon-kemecard-icon-tranport .path2:before {
+  content: "\ea4d";
+  margin-left: -1.140625em;
+  color: rgb(183, 48, 38);
+}
+.icon-kemecoricon-transperent .path1:before {
+  content: "\ea4e";
+  color: rgb(245, 204, 199);
+}
+.icon-kemecoricon-transperent .path2:before {
+  content: "\ea4f";
+  margin-left: -0.9150390625em;
+  color: rgb(185, 45, 37);
+}
+.icon-kemedar-auction-square-con-tranperent .path1:before {
+  content: "\ea50";
+  color: rgb(6, 5, 4);
+}
+.icon-kemedar-auction-square-con-tranperent .path2:before {
+  content: "\ea51";
+  margin-left: -0.9580078125em;
+  color: rgb(197, 55, 35);
+}
+.icon-KEMEDAR-icon .path1:before {
+  content: "\ea52";
+  color: rgb(94, 33, 19);
+}
+.icon-KEMEDAR-icon .path2:before {
+  content: "\ea53";
+  margin-left: -1.1259765625em;
+  color: rgb(194, 46, 36);
+}
+.icon-kemedari-icon-transperent .path1:before {
+  content: "\ea54";
+  color: rgb(240, 204, 196);
+}
+.icon-kemedari-icon-transperent .path2:before {
+  content: "\ea55";
+  margin-left: -1em;
+  color: rgb(193, 55, 39);
+}
+.icon-kemedar-support-icon-transperent .path1:before {
+  content: "\ea56";
+  color: rgb(7, 5, 4);
+}
+.icon-kemedar-support-icon-transperent .path2:before {
+  content: "\ea57";
+  margin-left: -0.9580078125em;
+  color: rgb(197, 55, 35);
+}
+.icon-kememap-icon-transperent .path1:before {
+  content: "\ea58";
+  color: rgb(241, 203, 203);
+}
+.icon-kememap-icon-transperent .path2:before {
+  content: "\ea59";
+  margin-left: -0.958984375em;
+  color: rgb(186, 37, 39);
+}
+.icon-kemenews-icon .path1:before {
+  content: "\ea5a";
+  color: rgb(249, 238, 236);
+}
+.icon-kemenews-icon .path2:before {
+  content: "\ea5b";
+  margin-left: -0.9697265625em;
+  color: rgb(189, 37, 35);
+}
+.icon-kemereno-icon-transperent .path1:before {
+  content: "\ea5c";
+  color: rgb(251, 250, 249);
+}
+.icon-kemereno-icon-transperent .path2:before {
+  content: "\ea5d";
+  margin-left: -1.0029296875em;
+  color: rgb(185, 41, 37);
+}
+.icon-kemessenger .path1:before {
+  content: "\ea5e";
+  color: rgb(185, 43, 37);
+}
+.icon-kemessenger .path2:before {
+  content: "\ea5f";
+  margin-left: -0.900390625em;
+  color: rgb(114, 28, 21);
+}
+.icon-kemessenger .path3:before {
+  content: "\ea60";
+  margin-left: -0.900390625em;
+  color: rgb(240, 204, 197);
+}
+.icon-kemessenger .path4:before {
+  content: "\ea61";
+  margin-left: -0.900390625em;
+  color: rgb(130, 29, 26);
+}
+.icon-kemessenger .path5:before {
+  content: "\ea62";
+  margin-left: -0.900390625em;
+  color: rgb(187, 116, 115);
+}
+.icon-kemetour .path1:before {
+  content: "\ea63";
+  color: rgb(251, 107, 107);
+}
+.icon-kemetour .path2:before {
+  content: "\ea64";
+  margin-left: -1em;
+  color: rgb(52, 52, 52);
+}
+.icon-kemetour .path3:before {
+  content: "\ea65";
+  margin-left: -1em;
+  color: rgb(203, 211, 123);
+}
+.icon-kemetour .path4:before {
+  content: "\ea66";
+  margin-left: -1em;
+  color: rgb(251, 203, 91);
+}
+.icon-kemetour .path5:before {
+  content: "\ea67";
+  margin-left: -1em;
+  color: rgb(12, 155, 163);
+}
+.icon-kemetro-icon-trans .path1:before {
+  content: "\ea68";
+  color: rgb(244, 84, 36);
+}
+.icon-kemetro-icon-trans .path2:before {
+  content: "\ea69";
+  margin-left: -1em;
+  color: rgb(188, 35, 36);
+}
+.icon-kemetro-icon-trans .path3:before {
+  content: "\ea6a";
+  margin-left: -1em;
+  color: rgb(84, 244, 35);
+}
+.icon-kemetro-icon-trans .path4:before {
+  content: "\ea6b";
+  margin-left: -1em;
+  color: rgb(35, 84, 244);
+}
+.icon-kemetro-icon-trans .path5:before {
+  content: "\ea6c";
+  margin-left: -1em;
+  color: rgb(244, 36, 180);
+}
+.icon-kemetro-seller .path1:before {
+  content: "\ea6d";
+  color: rgb(188, 36, 36);
+}
+.icon-kemetro-seller .path2:before {
+  content: "\ea6e";
+  margin-left: -1em;
+  color: rgb(188, 28, 36);
+}
+.icon-kemetro-seller .path3:before {
+  content: "\ea6f";
+  margin-left: -1em;
+  color: rgb(192, 36, 36);
+}
+.icon-kemetro-shipper .path1:before {
+  content: "\ea70";
+  color: rgb(188, 36, 36);
+}
+.icon-kemetro-shipper .path2:before {
+  content: "\ea71";
+  margin-left: -1em;
+  color: rgb(111, 19, 22);
+}
+.icon-kemetro-shipper .path3:before {
+  content: "\ea72";
+  margin-left: -1em;
+  color: rgb(180, 28, 36);
+}
+.icon-kemetro-shipper .path4:before {
+  content: "\ea73";
+  margin-left: -1em;
+  color: rgb(148, 27, 29);
+}
+.icon-kemetro-shipper .path5:before {
+  content: "\ea74";
+  margin-left: -1em;
+  color: rgb(164, 28, 36);
+}
+.icon-kemework .path1:before {
+  content: "\ea75";
+  color: rgb(189, 40, 38);
+}
+.icon-kemework .path2:before {
+  content: "\ea76";
+  margin-left: -0.970703125em;
+  color: rgb(220, 147, 52);
+}
+.icon-kemework .path3:before {
+  content: "\ea77";
+  margin-left: -0.970703125em;
+  color: rgb(68, 36, 20);
+}
+.icon-kemework .path4:before {
+  content: "\ea78";
+  margin-left: -0.970703125em;
+  color: rgb(245, 206, 201);
+}
+.icon-kemework .path5:before {
+  content: "\ea79";
+  margin-left: -0.970703125em;
+  color: rgb(199, 126, 124);
+}
+.icon-kemmeta .path1:before {
+  content: "\ea7a";
+  color: rgb(188, 36, 36);
+}
+.icon-kemmeta .path2:before {
+  content: "\ea7b";
+  margin-left: -0.9658203125em;
+  color: rgb(224, 85, 36);
+}
+.icon-kemmeta .path3:before {
+  content: "\ea7c";
+  margin-left: -0.9658203125em;
+  color: rgb(204, 60, 36);
+}
+.icon-kemmeta .path4:before {
+  content: "\ea7d";
+  margin-left: -0.9658203125em;
+  color: rgb(122, 28, 21);
+}
+.icon-kemmeta .path5:before {
+  content: "\ea7e";
+  margin-left: -0.9658203125em;
+  color: rgb(151, 28, 28);
+}
+.icon-xeed-icon .path1:before {
+  content: "\ea7f";
+  color: rgb(212, 70, 36);
+}
+.icon-xeed-icon .path2:before {
+  content: "\ea80";
+  margin-left: -0.953125em;
+  color: rgb(204, 60, 36);
+}
+.icon-xeed-icon .path3:before {
+  content: "\ea81";
+  margin-left: -0.953125em;
+  color: rgb(191, 40, 36);
+}
+.icon-xeed-icon .path4:before {
+  content: "\ea82";
+  margin-left: -0.953125em;
+  color: rgb(163, 28, 35);
+}
+.icon-xeed-icon .path5:before {
+  content: "\ea83";
+  margin-left: -0.953125em;
+  color: rgb(180, 36, 36);
+}
+.icon-hp-action-button-add-property:before {
+  content: "\e900";
+}
+.icon-hp-action-button-buy-product:before {
+  content: "\e901";
+}
+.icon-hp-action-button-connect:before {
+  content: "\e902";
+}
+.icon-hp-action-button-find-property:before {
+  content: "\e903";
+}
+.icon-hp-action-button-hire-handyman:before {
+  content: "\e904";
+}
+.icon-hp-action-button-invest:before {
+  content: "\e905";
+}
+.icon-hp-hmenu-property-apartment:before {
+  content: "\e906";
+}
+.icon-hp-hmenu-property-building:before {
+  content: "\e907";
+}
+.icon-hp-hmenu-property-chalet:before {
+  content: "\e908";
+}
+.icon-hp-hmenu-property-clinic:before {
+  content: "\e909";
+}
+.icon-hp-hmenu-property-condo:before {
+  content: "\e90a";
+}
+.icon-hp-hmenu-property-factory:before {
+  content: "\e90b";
+}
+.icon-hp-hmenu-property-farm:before {
+  content: "\e90c";
+}
+.icon-hp-hmenu-property-hospital:before {
+  content: "\e90d";
+}
+.icon-hp-hmenu-property-hotel:before {
+  content: "\e90e";
+}
+.icon-hp-hmenu-property-House:before {
+  content: "\e90f";
+}
+.icon-hp-hmenu-property-land:before {
+  content: "\e910";
+}
+.icon-hp-hmenu-property-mall:before {
+  content: "\e911";
+}
+.icon-hp-hmenu-property-menu:before {
+  content: "\e912";
+}
+.icon-hp-hmenu-property-office:before {
+  content: "\e913";
+}
+.icon-hp-hmenu-property-oil-station:before {
+  content: "\e914";
+}
+.icon-hp-hmenu-property-palace:before {
+  content: "\e915";
+}
+.icon-hp-hmenu-property-restaurant:before {
+  content: "\e916";
+}
+.icon-hp-hmenu-property-room:before {
+  content: "\e917";
+}
+.icon-hp-hmenu-property-shop:before {
+  content: "\e918";
+}
+.icon-hp-hmenu-property-sports:before {
+  content: "\e919";
+}
+.icon-hp-hmenu-property-villa:before {
+  content: "\e91a";
+}
+.icon-hp-hmenu-property-warehouse:before {
+  content: "\e91b";
+}
+.icon-hp-hm-hire-carpenter:before {
+  content: "\e91c";
+}
+.icon-hp-hm-hire-electrican:before {
+  content: "\e91d";
+}
+.icon-hp-hm-hire-furniture-movers:before {
+  content: "\e91e";
+}
+.icon-hp-hm-hire-interior-design:before {
+  content: "\e91f";
+}
+.icon-hp-hm-hire-Lawyer:before {
+  content: "\e920";
+}
+.icon-hp-hm-hire-painter:before {
+  content: "\e921";
+}
+.icon-hp-hm-hire-plumber:before {
+  content: "\e922";
+}
+.icon-hp-hm-hire-roof:before {
+  content: "\e923";
+}
+.icon-hp-hm-hire-tile-worker:before {
+  content: "\e924";
+}
+.icon-hp-special-for-academy-student:before {
+  content: "\e925";
+}
+.icon-hp-special-for-affiliate:before {
+  content: "\e926";
+}
+.icon-hp-special-for-Finishing-company:before {
+  content: "\e927";
+}
+.icon-hp-special-for-instructor:before {
+  content: "\e928";
+}
+.icon-hp-special-for-investor:before {
+  content: "\e929";
+}
+.icon-hp-special-for-Job-seeker:before {
+  content: "\e92a";
+}
+.icon-hp-special-for-kemmeta-memeber:before {
+  content: "\e92b";
+}
+.icon-hp-special-for-Product-buyers:before {
+  content: "\e92c";
+}
+.icon-hp-special-for-product-seller:before {
+  content: "\e92d";
+}
+.icon-hp-special-for-professional-and-technican:before {
+  content: "\e92e";
+}
+.icon-hp-special-for-Property-Buyer:before {
+  content: "\e92f";
+}
+.icon-hp-special-for-property-owner:before {
+  content: "\e930";
+}
+.icon-hp-special-for-Real-estate-agent:before {
+  content: "\e931";
+}
+.icon-hp-special-for-Real-estate-developers:before {
+  content: "\e932";
+}
+.icon-hp-special-for-Store-collaborator:before {
+  content: "\e933";
+}
+.icon-hp-special-for-team:before {
+  content: "\e934";
+}
+.icon-hp-stats-agents:before {
+  content: "\e935";
+}
+.icon-hp-stats-Countries:before {
+  content: "\e936";
+}
+.icon-hp-stats-Courses:before {
+  content: "\e937";
+}
+.icon-hp-stats-developer:before {
+  content: "\e938";
+}
+.icon-hp-stats-freelancer-marketiers:before {
+  content: "\e939";
+}
+.icon-hp-stats-instructor:before {
+  content: "\e93a";
+}
+.icon-hp-stats-Instructors:before {
+  content: "\e93b";
+}
+.icon-hp-stats-location:before {
+  content: "\e93c";
+}
+.icon-hp-stats-Products:before {
+  content: "\e93d";
+}
+.icon-hp-stats-Professional-Technicians:before {
+  content: "\e93e";
+}
+.icon-hp-stats-projects:before {
+  content: "\e93f";
+}
+.icon-hp-stats-properties:before {
+  content: "\e940";
+}
+.icon-hp-stats-Shops:before {
+  content: "\e941";
+}
+.icon-mm-all-user-favorite-agent:before {
+  content: "\e942";
+}
+.icon-mm-all-user-favorite-developer:before {
+  content: "\e943";
+}
+.icon-mm-all-user-favorite-Franchise-owner-area:before {
+  content: "\e944";
+}
+.icon-mm-all-user-favorite-projects:before {
+  content: "\e945";
+}
+.icon-mm-all-user-favorite-Properties:before {
+  content: "\e946";
+}
+.icon-mm-all-user-Favorites:before {
+  content: "\e947";
+}
+.icon-mm-all-user-favorite-search:before {
+  content: "\e948";
+}
+.icon-mm-all-user-money-and-orders:before {
+  content: "\e949";
+}
+.icon-mm-all-user-money-and-orders-Order-history:before {
+  content: "\e94a";
+}
+.icon-mm-all-user-money-and-orders-Payment-methods:before {
+  content: "\e94b";
+}
+.icon-mm-all-user-money-and-orders-Wallet:before {
+  content: "\e94d";
+}
+.icon-mm-all-user-my-account:before {
+  content: "\e94e";
+}
+.icon-mm-all-user-my-account-Change-Password:before {
+  content: "\e94f";
+}
+.icon-mm-all-user-my-account-edit-profile:before {
+  content: "\e950";
+}
+.icon-mm-all-user-my-account-logout:before {
+  content: "\e951";
+}
+.icon-mm-all-user-my-account-profile:before {
+  content: "\e952";
+}
+.icon-mm-all-user-Premium-Services:before {
+  content: "\e953";
+}
+.icon-mm-all-user-Premium-Services-Paid-service:before {
+  content: "\e954";
+}
+.icon-mm-all-user-Premium-Services-Promote-my-ads:before {
+  content: "\e955";
+}
+.icon-mm-all-user-Premium-Services-subscription:before {
+  content: "\e956";
+}
+.icon-mm-all-user-Tools-_-communications:before {
+  content: "\e957";
+}
+.icon-mm-all-user-Tools-_-communications-Email:before {
+  content: "\e958";
+}
+.icon-mm-all-user-Tools-_-communications-file-manager:before {
+  content: "\e959";
+}
+.icon-mm-all-user-Tools-communications-Conversations:before {
+  content: "\e95a";
+}
+.icon-mm-common-user-add-buy-request:before {
+  content: "\e95b";
+}
+.icon-mm-common-user-add-new-property:before {
+  content: "\e95c";
+}
+.icon-mm-common-user-agent:before {
+  content: "\e95d";
+}
+.icon-mm-common-user-Bought-or-Rented:before {
+  content: "\e95e";
+}
+.icon-mm-common-user-Buy-requests:before {
+  content: "\e95f";
+}
+.icon-mm-common-user-contacted-people:before {
+  content: "\e960";
+}
+.icon-mm-common-user-contacted-properties:before {
+  content: "\e961";
+}
+.icon-mm-common-user-dashboard:before {
+  content: "\e962";
+}
+.icon-mm-common-user-developer:before {
+  content: "\e963";
+}
+.icon-mm-common-user-favorite-projects:before {
+  content: "\e964";
+}
+.icon-mm-common-user-favorite-property:before {
+  content: "\e965";
+}
+.icon-mm-common-user-Find-a-project:before {
+  content: "\e966";
+}
+.icon-mm-common-user-find-property:before {
+  content: "\e967";
+}
+.icon-mm-common-user-find-user:before {
+  content: "\e968";
+}
+.icon-mm-common-user-franchise-area:before {
+  content: "\e969";
+}
+.icon-mm-common-user-franchise-owner-country:before {
+  content: "\e96a";
+}
+.icon-mm-common-user-In-negotiation-properties:before {
+  content: "\e96b";
+}
+.icon-mm-common-user-In-processing-properties:before {
+  content: "\e96c";
+}
+.icon-mm-common-user-kemedar-buyer-organizer:before {
+  content: "\e96d";
+}
+.icon-mm-common-user-my-buy-request:before {
+  content: "\e96e";
+}
+.icon-mm-common-user-organizer:before {
+  content: "\e96f";
+}
+.icon-mm-common-user-Owners-of-my-properties:before {
+  content: "\e970";
+}
+.icon-mm-common-user-People-closed-deals:before {
+  content: "\e971";
+}
+.icon-mm-common-user-People-negotiating:before {
+  content: "\e972";
+}
+.icon-mm-common-user-people-to-be-contacted:before {
+  content: "\e973";
+}
+.icon-mm-common-user-people-video-my-property:before {
+  content: "\e974";
+}
+.icon-mm-common-user-people-visit:before {
+  content: "\e975";
+}
+.icon-mm-common-user-project:before {
+  content: "\e976";
+}
+.icon-mm-common-user-properties:before {
+  content: "\e977";
+}
+.icon-mm-common-user-properties-compare:before {
+  content: "\e978";
+}
+.icon-mm-common-user-properties-I-added:before {
+  content: "\e979";
+}
+.icon-mm-common-user-Rejected-properties:before {
+  content: "\e97a";
+}
+.icon-mm-common-user-Saved-searches:before {
+  content: "\e97b";
+}
+.icon-mm-common-user-Search-buy-request:before {
+  content: "\e97c";
+}
+.icon-mm-common-user-Seller-organizer:before {
+  content: "\e97d";
+}
+.icon-mm-common-user-Site-visited-properties:before {
+  content: "\e97e";
+}
+.icon-mm-common-user-video-show-properties:before {
+  content: "\e97f";
+}
+.icon-mm-common-user-waiting:before {
+  content: "\e980";
+}
+.icon-mmm_about-us:before {
+  content: "\e981";
+}
+.icon-mmm_about-us-Business-Strategy:before {
+  content: "\e982";
+}
+.icon-mmm_about-us-Covered-Countries:before {
+  content: "\e983";
+}
+.icon-mmm_about-us-Kemedar-in-Numbers:before {
+  content: "\e984";
+}
+.icon-mmm_about-us-mission:before {
+  content: "\e985";
+}
+.icon-mmm_about-us-Opportunities-in-Proptech:before {
+  content: "\e986";
+}
+.icon-mmm_about-us-Our-Beautiful-Minds:before {
+  content: "\e987";
+}
+.icon-mmm_about-us-Our-Business-Model:before {
+  content: "\e988";
+}
+.icon-mmm_about-us-Our-Companies:before {
+  content: "\e989";
+}
+.icon-mmm_about-us-Our-Main-Brands:before {
+  content: "\e98a";
+}
+.icon-mmm_about-us-Our-Main-Systems:before {
+  content: "\e98b";
+}
+.icon-mmm_about-us-Our-user_s-Groups:before {
+  content: "\e98c";
+}
+.icon-mmm_about-us-President-Message:before {
+  content: "\e98d";
+}
+.icon-mmm_about-us-Products-_-Services:before {
+  content: "\e98e";
+}
+.icon-mmm_about-us-Proptech-in-Numbers:before {
+  content: "\e98f";
+}
+.icon-mmm_about-us-Stats-Map:before {
+  content: "\e990";
+}
+.icon-mmm_about-us-Videos-_-Media:before {
+  content: "\e991";
+}
+.icon-mmm_about-us-What-is-new-in-kemedar:before {
+  content: "\e992";
+}
+.icon-mmm_about-us-What-is-Proptech:before {
+  content: "\e993";
+}
+.icon-mmm_about-us-Why-are-We-Different:before {
+  content: "\e994";
+}
+.icon-mmm_about-us-why-we-are-different:before {
+  content: "\e995";
+}
+.icon-mmm_add:before {
+  content: "\e996";
+}
+.icon-mmm_add-Article-news:before {
+  content: "\e997";
+}
+.icon-mmm_add-Auction:before {
+  content: "\e998";
+}
+.icon-mmm_add-Buy-Request:before {
+  content: "\e999";
+}
+.icon-mmm_add-Course:before {
+  content: "\e99a";
+}
+.icon-mmm_add-Event:before {
+  content: "\e99b";
+}
+.icon-mmm_add-Finishing-Task:before {
+  content: "\e99c";
+}
+.icon-mmm_add-Group:before {
+  content: "\e99d";
+}
+.icon-mmm_add-Investment-Opportunity:before {
+  content: "\e99e";
+}
+.icon-mmm_add-Page:before {
+  content: "\e99f";
+}
+.icon-mmm_add-Post:before {
+  content: "\e9a0";
+}
+.icon-mmm_add-Product:before {
+  content: "\e9a1";
+}
+.icon-mmm_add-Property:before {
+  content: "\e9a2";
+}
+.icon-mmm_add-REIT-Property:before {
+  content: "\e9a3";
+}
+.icon-mmm_add-Store:before {
+  content: "\e9a4";
+}
+.icon-mmm_add-Used-product:before {
+  content: "\e9a5";
+}
+.icon-mmm_add-Video-news:before {
+  content: "\e9a6";
+}
+.icon-mmm_connect:before {
+  content: "\e9a7";
+}
+.icon-mmm_connect_Join-Community:before {
+  content: "\e9a8";
+}
+.icon-mmm_connect-Forums:before {
+  content: "\e9a9";
+}
+.icon-mmm_connect-Groups:before {
+  content: "\e9aa";
+}
+.icon-mmm_connect-Pages:before {
+  content: "\e9ab";
+}
+.icon-mmm_Contact-Us:before {
+  content: "\e9ac";
+}
+.icon-mmm_find_product:before {
+  content: "\e9ad";
+}
+.icon-mmm_find_product_Appliances:before {
+  content: "\e9ae";
+}
+.icon-mmm_find_product_archetictural:before {
+  content: "\e9af";
+}
+.icon-mmm_find_product_construction:before {
+  content: "\e9b0";
+}
+.icon-mmm_find_product_Decorative:before {
+  content: "\e9b1";
+}
+.icon-mmm_find_product_Electrical:before {
+  content: "\e9b2";
+}
+.icon-mmm_find_product_Furniture:before {
+  content: "\e9b3";
+}
+.icon-mmm_find_product_Landscape:before {
+  content: "\e9b4";
+}
+.icon-mmm_find_product_masonry:before {
+  content: "\e9b5";
+}
+.icon-mmm_find_product_Mechanical:before {
+  content: "\e9b6";
+}
+.icon-mmm_find_product_other:before {
+  content: "\e9b7";
+}
+.icon-mmm_find_product_Plumbing:before {
+  content: "\e9b8";
+}
+.icon-mmm_find_proefessional_carpenter:before {
+  content: "\e9b9";
+}
+.icon-mmm_find_proefessional_electrican:before {
+  content: "\e9ba";
+}
+.icon-mmm_find_proefessional_furniture-movers:before {
+  content: "\e9bb";
+}
+.icon-mmm_find_proefessional_interior-design:before {
+  content: "\e9bc";
+}
+.icon-mmm_find_proefessional_Lawyer:before {
+  content: "\e9bd";
+}
+.icon-mmm_find_proefessional_painter:before {
+  content: "\e9be";
+}
+.icon-mmm_find_proefessional_plumber:before {
+  content: "\e9bf";
+}
+.icon-mmm_find_proefessional_roofer:before {
+  content: "\e9c0";
+}
+.icon-mmm_find_proefessional_tile_worker:before {
+  content: "\e9c1";
+}
+.icon-mmm_find_project:before {
+  content: "\e9c2";
+}
+.icon-mmm_find_property:before {
+  content: "\e9c3";
+}
+.icon-mmm_find_property_for-auction:before {
+  content: "\e9c4";
+}
+.icon-mmm_find_property_for-daily-booking:before {
+  content: "\e9c5";
+}
+.icon-mmm_find_property_for-invetment:before {
+  content: "\e9c6";
+}
+.icon-mmm_find_property_for-partnership:before {
+  content: "\e9c7";
+}
+.icon-mmm_find_property_for-rent:before {
+  content: "\e9c8";
+}
+.icon-mmm_find_property_for-sale:before {
+  content: "\e9c9";
+}
+.icon-mmm_find_property_for-sale-or-rent:before {
+  content: "\e9ca";
+}
+.icon-mmm_find_user:before {
+  content: "\e9cb";
+}
+.icon-mmm_find_user_agency:before {
+  content: "\e9cc";
+}
+.icon-mmm_find_user_agent:before {
+  content: "\e9cd";
+}
+.icon-mmm_find_user_developer:before {
+  content: "\e9ce";
+}
+.icon-mmm_find_user_finishing-company:before {
+  content: "\e9cf";
+}
+.icon-mmm_find_user_franchsie-owner-area:before {
+  content: "\e9d0";
+}
+.icon-mmm_find_user_instructor:before {
+  content: "\e9d1";
+}
+.icon-mmm_find_user_product-seller:before {
+  content: "\e9d2";
+}
+.icon-mmm_invest:before {
+  content: "\e9d3";
+}
+.icon-mmm_invest_invest-my-capital:before {
+  content: "\e9d4";
+}
+.icon-mmm_invest_invest-my-real-estate:before {
+  content: "\e9d5";
+}
+.icon-mmm_invest_kemedar-reit-system:before {
+  content: "\e9d6";
+}
+.icon-mmm_learn:before {
+  content: "\e9d7";
+}
+.icon-mmm_learn-Architect:before {
+  content: "\e9d8";
+}
+.icon-mmm_learn-carpenter:before {
+  content: "\e9d9";
+}
+.icon-mmm_learn-Electrician:before {
+  content: "\e9da";
+}
+.icon-mmm_learn-Furniture-Mover:before {
+  content: "\e9db";
+}
+.icon-mmm_learn-Home-decoration:before {
+  content: "\e9dc";
+}
+.icon-mmm_learn-Home-Development:before {
+  content: "\e9dd";
+}
+.icon-mmm_learn-other:before {
+  content: "\e9de";
+}
+.icon-mmm_learn-Painter:before {
+  content: "\e9df";
+}
+.icon-mmm_learn-Plumber:before {
+  content: "\e9e0";
+}
+.icon-mmm_learn-Real-Estate-Business:before {
+  content: "\e9e1";
+}
+.icon-mmm_learn-Real-Estate-Business-Business-Strategy:before {
+  content: "\e9e2";
+}
+.icon-mmm_learn-Real-Estate-Business-Communications:before {
+  content: "\e9e3";
+}
+.icon-mmm_learn-Real-Estate-Business-Management:before {
+  content: "\e9e4";
+}
+.icon-mmm_learn-Real-Estate-Business-Real-estate-Marketing:before {
+  content: "\e9e5";
+}
+.icon-mmm_learn-Roofer:before {
+  content: "\e9e6";
+}
+.icon-mmm_learn-Tile-setter:before {
+  content: "\e9e7";
+}
+.icon-mmm_mobile_apps-academy:before {
+  content: "\e9e8";
+}
+.icon-mmm_mobile_apps-camonea:before {
+  content: "\e9e9";
+}
+.icon-mmm_mobile_apps-kemedar:before {
+  content: "\e9ea";
+}
+.icon-mmm_mobile_apps-kemedar-reit:before {
+  content: "\e9eb";
+}
+.icon-mmm_mobile_apps-kemenews:before {
+  content: "\e9ec";
+}
+.icon-mmm_mobile_apps-KEMETRO:before {
+  content: "\e9ed";
+}
+.icon-mmm_mobile_apps-Kemetro-delivery:before {
+  content: "\e9ee";
+}
+.icon-mmm_mobile_apps-Kemetro-seller:before {
+  content: "\e9ef";
+}
+.icon-mmm_mobile_apps-kemework:before {
+  content: "\e9f0";
+}
+.icon-mmm_mobile_apps-kemmeta:before {
+  content: "\e9f1";
+}
+.icon-mmm_mobile_apps-KEMODOO:before {
+  content: "\e9f2";
+}
+.icon-mmm_mobile_apps-Xeed:before {
+  content: "\e9f3";
+}
+.icon-mmm_social-media-academy:before {
+  content: "\e9f4";
+}
+.icon-mmm_social-media-camonea:before {
+  content: "\e9f5";
+}
+.icon-mmm_social-media-kemedar:before {
+  content: "\e9f6";
+}
+.icon-mmm_social-media-kemedar-reit:before {
+  content: "\e9f7";
+}
+.icon-mmm_social-media-kemenews:before {
+  content: "\e9f8";
+}
+.icon-mmm_social-media-KEMETRO:before {
+  content: "\e9f9";
+}
+.icon-mmm_social-media-Kemetro-delivery:before {
+  content: "\e9fa";
+}
+.icon-mmm_social-media-Kemetro-seller:before {
+  content: "\e9fb";
+}
+.icon-mmm_social-media-kemework:before {
+  content: "\e9fc";
+}
+.icon-mmm_social-media-kemmeta:before {
+  content: "\e9fd";
+}
+.icon-mmm_social-media-KEMODOO:before {
+  content: "\e9fe";
+}
+.icon-mmm_social-media-Xeed:before {
+  content: "\e9ff";
+}
+.icon-mmm_user-benefit-academy-student:before {
+  content: "\ea00";
+}
+.icon-mmm_user-benefit-advertiser:before {
+  content: "\ea01";
+}
+.icon-mmm_user-benefit--affiliate:before {
+  content: "\ea02";
+}
+.icon-mmm_user-benefit-for-Finishing-company:before {
+  content: "\ea03";
+}
+.icon-mmm_user-benefit-franchise_owner:before {
+  content: "\ea04";
+}
+.icon-mmm_user-benefit-franchise_owner_country:before {
+  content: "\ea05";
+}
+.icon-mmm_user-benefit-instructor:before {
+  content: "\ea06";
+}
+.icon-mmm_user-benefit-investor:before {
+  content: "\ea07";
+}
+.icon-mmm_user-benefit-Job-seeker:before {
+  content: "\ea08";
+}
+.icon-mmm_user-benefit-kemmeta-memeber:before {
+  content: "\ea09";
+}
+.icon-mmm_user-benefit-Product-buyers:before {
+  content: "\ea0a";
+}
+.icon-mmm_user-benefit-product-seller:before {
+  content: "\ea0b";
+}
+.icon-mmm_user-benefit-professional-and-technican:before {
+  content: "\ea0c";
+}
+.icon-mmm_user-benefit-Property-Buyer:before {
+  content: "\ea0d";
+}
+.icon-mmm_user-benefit-property-seller:before {
+  content: "\ea0e";
+}
+.icon-mmm_user-benefit-Real-estate-agent:before {
+  content: "\ea0f";
+}
+.icon-mmm_user-benefit-Real-estate-developers:before {
+  content: "\ea10";
+}
+.icon-mmm_user-benefit-Store-collaborator:before {
+  content: "\ea11";
+}
+.icon-Our-Offices:before {
+  content: "\ea12";
+}
+.icon-side-menu-auction:before {
+  content: "\ea14";
+}
+.icon-side-menu-buy:before {
+  content: "\ea15";
+}
+.icon-side-menu-Chat:before {
+  content: "\ea16";
+}
+.icon-side-menu-file-manager:before {
+  content: "\ea17";
+}
+.icon-side-menu-knowledgebase:before {
+  content: "\ea18";
+}
+.icon-side-menu-mobile-app:before {
+  content: "\ea19";
+}
+.icon-side-menu-support_2:before {
+  content: "\ea1a";
+}
+.icon-side-menu-video_2:before {
+  content: "\ea1b";
+}
+.icon-top-header-icons-call:before {
+  content: "\ea1c";
+}
+.icon-top-header-icons-dollar-symbol:before {
+  content: "\ea1d";
+}
+.icon-top-header-icons-flag:before {
+  content: "\ea1e";
+}
+.icon-top-header-icons-increase:before {
+  content: "\ea1f";
+}
+.icon-top-header-icons-info:before {
+  content: "\ea20";
+}
+.icon-top-header-icons-log-in:before {
+  content: "\ea21";
+}
+.icon-top-header-icons-signup:before {
+  content: "\ea22";
+}
+.icon-top-header-icons-translate:before {
+  content: "\ea23";
+}
+.icon-top-header-logo-academy:before {
+  content: "\ea24";
+}
+.icon-top-header-logo-camonea:before {
+  content: "\ea25";
+}
+.icon-top-header-logo-kemedar:before {
+  content: "\ea26";
+}
+.icon-top-header-logo-kemedar-reit:before {
+  content: "\ea27";
+}
+.icon-top-header-logo-kemenews:before {
+  content: "\ea28";
+}
+.icon-top-header-logo-KEMETRO:before {
+  content: "\ea29";
+}
+.icon-top-header-logo-Kemetro-delivery:before {
+  content: "\ea2a";
+}
+.icon-top-header-logo-Kemetro-seller:before {
+  content: "\ea2b";
+}
+.icon-top-header-logo-kemmeta:before {
+  content: "\ea2c";
+}
+.icon-top-header-logo-KEMODOO:before {
+  content: "\ea2d";
+}
+.icon-top-header-logo-Xeed:before {
+  content: "\ea2e";
+}
+.icon-ttop-header-logo-kemework:before {
+  content: "\ea2f";
+}
+.icon-user-benefit-academy-student:before {
+  content: "\ea30";
+}
+.icon-user-benefit--affiliate:before {
+  content: "\ea31";
+}
+.icon-user-benefit-for-Finishing-company:before {
+  content: "\ea32";
+}
+.icon-user-benefit-instructor:before {
+  content: "\ea33";
+}
+.icon-user-benefit-investor:before {
+  content: "\ea34";
+}
+.icon-user-benefit-Job-seeker:before {
+  content: "\ea35";
+}
+.icon-user-benefit-kemmeta-memeber:before {
+  content: "\ea36";
+}
+.icon-user-benefit-Product-buyers:before {
+  content: "\ea37";
+}
+.icon-user-benefit-product-seller:before {
+  content: "\ea38";
+}
+.icon-user-benefit-professional-and-technican:before {
+  content: "\ea39";
+}
+.icon-user-benefit-Property-Buyer:before {
+  content: "\ea3a";
+}
+.icon-user-benefit-property-owner:before {
+  content: "\ea3b";
+}
+.icon-user-benefit-Real-estate-agent:before {
+  content: "\ea3c";
+}
+.icon-user-benefit-Real-estate-developers:before {
+  content: "\ea3d";
+}
+.icon-user-benefit-Store-collaborator:before {
+  content: "\ea3e";
+}
+.icon-user-benefit-team:before {
+  content: "\ea3f";
+}

@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'คอร์ส',
+  'courses' => 'หลักสูตร',
+  'text_course' => 'หลักสูตรข้อความ',
+  'video_course' => 'หลักสูตรวิดีโอ',
+  'information' => 'ข้อมูล',
+  'content' => 'เนื้อหา',
+  'review' => 'ทบทวน',
+  'reviews' => 'บทวิจารณ์',
+  'Webinar_description' => 'เกี่ยวกับหลักสูตรนี้',
+  'post_comment' => 'เขียนความคิดเห็น',
+  'post_review' => 'โพสต์รีวิว',
+  'comment_success_store' => 'ความคิดเห็นส่งสำเร็จ!',
+  'comment_success_store_msg' => 'ความคิดเห็นของคุณจะถูกเผยแพร่หลังจากได้รับอนุมัติจากผู้ดูแลระบบ',
+  'guarantee_text' => 'รับประกันคืนเงิน 5 วัน',
+  'product_designer' => 'นักออกแบบผลิตภัณฑ์',
+  'content_quality' => 'คุณภาพเนื้อหา',
+  'instructor_skills' => 'ทักษะผู้สอน',
+  'purchase_worth' => 'มูลค่าซื้อ',
+  'support_quality' => 'สนับสนุนคุณภาพ',
+  'report_the_course' => 'รายงานหลักสูตร',
+  'reason' => 'เหตุผล',
+  'select_reason' => 'เลือกเหตุผล',
+  'report_modal_hint' => 'โปรดอธิบายเกี่ยวกับรายงานสั้น ๆ และชัดเจน',
+);

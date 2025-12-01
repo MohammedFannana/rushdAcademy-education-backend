@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'কোর্স',
+  'courses' => 'পাঠ্যধারাগুলি',
+  'text_course' => 'পাঠ্য কোর্স',
+  'video_course' => 'ভিডিও কোর্স',
+  'information' => 'তথ্য',
+  'content' => 'বিষয়বস্তু',
+  'review' => 'পুনঃমূল্যায়ন',
+  'reviews' => 'পর্যালোচনা',
+  'Webinar_description' => 'এই কোর্স সম্পর্কে',
+  'post_comment' => 'মন্তব্য প্রকাশ করুন',
+  'post_review' => 'পোস্ট পর্যালোচনা',
+  'comment_success_store' => 'মন্তব্য সফলভাবে প্রেরণ!',
+  'comment_success_store_msg' => 'আপনার মন্তব্য অ্যাডমিন দ্বারা অনুমোদিত পরে প্রকাশিত হবে।',
+  'guarantee_text' => '5 দিনের অর্থ ফেরতের গ্যারান্টি',
+  'product_designer' => 'পণ্য ডিজাইনার',
+  'content_quality' => 'সামগ্রীর গুণমান',
+  'instructor_skills' => 'প্রশিক্ষক দক্ষতা',
+  'purchase_worth' => 'ক্রয় মূল্য',
+  'support_quality' => 'সমর্থন মানের',
+  'report_the_course' => 'রিপোর্ট কোর্স',
+  'reason' => 'কারণ',
+  'select_reason' => 'একটি কারণ নির্বাচন করুন',
+  'report_modal_hint' => 'প্রতিবেদনটি সংক্ষিপ্ত এবং স্পষ্টভাবে বর্ণনা করুন।',
+);

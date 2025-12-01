@@ -1,0 +1,257 @@
+
+/* add missing icon */
+.system-modal .side-bar .accordion .accordion-box .header span i {
+
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-icon-KEMEDAR-icon {
+    background-image: url(../images/kemedar-red-icon-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemework {
+    background-image: url(../images/kemework-icon-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemetro-icon-trans {
+    background-image: url(../images/kemetro-seller-icon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemereit {
+    background-image: url(../images/KEMEREIT-icon-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemecademy-icon {
+    background-image: url(../images/kemecademy-icon-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemmeta {
+    background-image: url(../images/kemmeta-icon-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemenews-icon {
+    background-image: url(../images/kemenews-icon-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemedar-auction {
+    background-image: url(../images/kemedar/kemedar.png);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-camonea {
+    background-image: url(../images/kemetro-seller-icon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-xeed-icon {
+    background-image: url(../images/xeed-wallet-icon-trans-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemecoricon-transperent {
+    background-image: url(../images/kemecoricon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemetro-shipper {
+    background-image: url(../images/kemetro-seller-icon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-cedronella-icon {
+    background-image: url(../images/cedronella-icon-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-doringa-icon {
+    background-image: url(../images/doringa-icon-square-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemedar-auction-square-con-tranperent {
+    background-image: url(../images/kemedar-red-icon-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-ribano {
+    background-image: url(../images/ribano-icon2-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemessenger {
+    background-image: url(../images/kemessanger-icon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemedar-support-icon-transperent {
+    background-image: url(../images/kemedar-support-icon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemecard-icon-tranport {
+    background-image: url(../images/kemecard-icon-tranport-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-tarateesh-icon {
+    background-image: url(../images/tarateesh-icon-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemereno-icon-transperent {
+    background-image: url(../images/kemereno-icon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemeange-icon-transperent {
+    background-image: url(../images/kemeange-icon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemetour {
+    background-image: url(../images/kemetour-icon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kememap-icon-transperent {
+    background-image: url(../images/kememap-icon-transperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-maqamkareem {
+    background-image: url(../images/maqamkareem.png);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kem-kemedari {
+    background-image: url(../images/kemedari-icon-tranperent-svg.svg);
+}
+.system-modal .side-bar .accordion .accordion-box .header span i.kemmigrant {
+    background-image: url(../images/kemmigrant_icon-svg.svg);
+}
+.kemepromo {
+    background-image: url(../images/kemepromo.svg);
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+    .content-buttons {
+        font-family: 'Lato'!important;
+        font-size: 11px;
+    }
+    body.theme-3 a:not([class]) {
+    color: #1e3315 ;
+}
+body.theme-3 a:not([class]):hover {
+    color: #1e3315;
+}
+.system-modal-others {
+    display: none;
+}
+body.theme-3 .nav-link {
+    color: #000000;
+}
+body.theme-3 .nav-link:hover, body.theme-3 .nav-link:focus {
+    color: #000000;
+}
+/* .system-modal-others .side-bar {
+        background-color: #ebebe;
+        width: 60%;
+        border: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 100vh;
+        overflow: auto;
+    } */
+    .system-modal-others {
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: rgba(0, 0, 0, 0.2);
+        z-index: 999999999999;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .system-modal-others .side-bar {
+        background-color: #fff;
+        width: 60%;
+        border: none;
+        position: absolute;
+        right: -53px;
+        top: 20px;
+        height: 100vh;
+        overflow: auto;
+    }
+
+    .system-modal-others .close-modal-others {
+        background-color: #ef4444;
+        color: white;
+        position: absolute;
+        display: inline-block;
+        top: 23px !important;
+        right: -27px !important;
+        left: auto;
+        width: 40px;
+        text-align: center;
+        line-height: 40px;
+        height: 40px;
+        font-size: 20px;
+        border-radius: 9999px;
+        cursor: pointer;
+    }
+
+    .system-modal-others .side-bar .title {
+        color: #757575;
+        letter-spacing: .01786em;
+        padding: 20px 20px 5px;
+    }
+
+    .system-modal-others .side-bar .title h4 {
+        font-size: 15px;
+    }
+
+    .system-modal-others .side-bar .accordion {
+        margin-top: 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box {
+        height: auto;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .header {
+        display: flex;
+        flex-direction: row;
+        /*justify-content: space-between;*/
+        align-items: flex-start;
+        font-size: 13px;
+        cursor: pointer;
+        padding: 5px 20px;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .header:hover {
+        background-color: #e5e7eb;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .header span {
+        display: inline-block;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .content {
+        display: none;
+        padding: 20px;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .header span i {
+        color: #ef4444;
+        font-size: 25px;
+        margin-right: 10px;
+        display: inline-block;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .header span:first-child {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .content {
+        border: none;
+        height: auto;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .content .content-buttons {
+        border: none;
+        height: auto;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .content .content-buttons button {
+        user-select: none;
+        border: 1px solid black;
+        border-radius: 3px;
+        padding: 4px 16px;
+        outline: none;
+        background-color: transparent;
+        text-transform: uppercase;
+        transition: 0.2s all ease-in;
+    }
+
+    .system-modal-others .side-bar .accordion .accordion-box .content .content-buttons button:hover {
+        background-color: lightgray;
+    }
+
+    

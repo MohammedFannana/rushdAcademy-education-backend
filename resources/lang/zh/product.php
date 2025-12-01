@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => '课程',
+  'courses' => '培训班',
+  'text_course' => '文本课程',
+  'video_course' => '视频课程',
+  'information' => '信息',
+  'content' => '内容',
+  'review' => '审查',
+  'reviews' => '评论',
+  'Webinar_description' => '关于这门课程',
+  'post_comment' => '发表评论',
+  'post_review' => '发布评论',
+  'comment_success_store' => '评论成功发送了！',
+  'comment_success_store_msg' => '您的评论将在Admin批准后发表。',
+  'guarantee_text' => '5天退款保证',
+  'product_designer' => '产品设计师',
+  'content_quality' => '内容质量',
+  'instructor_skills' => '讲师技能',
+  'purchase_worth' => '购买价值',
+  'support_quality' => '支持质量',
+  'report_the_course' => '报告课程',
+  'reason' => '原因',
+  'select_reason' => '选择一个原因',
+  'report_modal_hint' => '请简单地描述报告。',
+);

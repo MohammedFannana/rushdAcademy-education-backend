@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'Kurs',
+  'courses' => 'Dersler',
+  'text_course' => 'Metin kursu',
+  'video_course' => 'Video kursu',
+  'information' => 'Bilgi',
+  'content' => 'İçerik',
+  'review' => 'Gözden geçirmek',
+  'reviews' => 'İncelemeler',
+  'Webinar_description' => 'Bu kurs hakkında',
+  'post_comment' => 'Yorum Gönder',
+  'post_review' => 'Inceleme sonrası',
+  'comment_success_store' => 'Yorum başarıyla gönderildi!',
+  'comment_success_store_msg' => 'Yorumunuz admin tarafından onaylandıktan sonra yayınlanacaktır.',
+  'guarantee_text' => '5 günlük para iade garantisi',
+  'product_designer' => 'Ürün tasarımcısı',
+  'content_quality' => 'İçerik kalitesi',
+  'instructor_skills' => 'Eğitmen becerileri',
+  'purchase_worth' => 'Satın Alma Değeri',
+  'support_quality' => 'Destek Kalitesi',
+  'report_the_course' => 'Rapor kursu',
+  'reason' => 'Sebep',
+  'select_reason' => 'Bir sebep seçin',
+  'report_modal_hint' => 'Lütfen raporu kısa ve net bir şekilde açıklayın.',
+);

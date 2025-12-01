@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'コース',
+  'courses' => 'コース',
+  'text_course' => 'テキストコース',
+  'video_course' => 'ビデオコース',
+  'information' => '情報',
+  'content' => 'コンテンツ',
+  'review' => 'レビュー',
+  'reviews' => 'レビュー',
+  'Webinar_description' => 'このコースについて',
+  'post_comment' => 'コメントを投稿',
+  'post_review' => 'レビュー後',
+  'comment_success_store' => 'コメントが正常に送信されました！',
+  'comment_success_store_msg' => 'コメントは、管理者によって承認された後に公開されます。',
+  'guarantee_text' => '5日間のお金の保証',
+  'product_designer' => '製品デザイナー',
+  'content_quality' => 'コンテンツ品質',
+  'instructor_skills' => 'インストラクタースキル',
+  'purchase_worth' => '購入する価値があります',
+  'support_quality' => 'サポート品質',
+  'report_the_course' => 'コースを報告します',
+  'reason' => '理由',
+  'select_reason' => '理由を選択します',
+  'report_modal_hint' => 'レポートについて短くて明確に説明してください。',
+);

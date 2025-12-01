@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'کورس',
+  'courses' => 'کورسز',
+  'text_course' => 'ٹیکسٹ کورس',
+  'video_course' => 'ویڈیو کورس',
+  'information' => 'معلومات',
+  'content' => 'مواد',
+  'review' => 'جائزہ لیں',
+  'reviews' => 'جائزے',
+  'Webinar_description' => 'اس کورس کے بارے میں',
+  'post_comment' => 'تبصرہ کریں',
+  'post_review' => 'پوسٹ جائزہ',
+  'comment_success_store' => 'تبصرہ کامیابی کے ساتھ بھیجا گیا!',
+  'comment_success_store_msg' => 'آپ کا تبصرہ ایڈمن کے ذریعہ منظور ہونے کے بعد شائع کیا جائے گا۔',
+  'guarantee_text' => '5 دن کی رقم کی واپسی کی ضمانت',
+  'product_designer' => 'پروڈکٹ ڈیزائنر',
+  'content_quality' => 'مواد کا معیار',
+  'instructor_skills' => 'انسٹرکٹر کی مہارت',
+  'purchase_worth' => 'خریداری کے قابل',
+  'support_quality' => 'معاون معیار',
+  'report_the_course' => 'رپورٹ کورس',
+  'reason' => 'وجہ',
+  'select_reason' => 'ایک وجہ منتخب کریں',
+  'report_modal_hint' => 'براہ کرم مختصر اور واضح طور پر رپورٹ کے بارے میں بیان کریں۔',
+);

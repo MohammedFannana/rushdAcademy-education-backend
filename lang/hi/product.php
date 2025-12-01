@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'अवधि',
+  'courses' => 'पाठ्यक्रम',
+  'text_course' => 'पाठ पाठ्यक्रम',
+  'video_course' => 'वीडियो -पाठ्यक्रम',
+  'information' => 'जानकारी',
+  'content' => 'सामग्री',
+  'review' => 'समीक्षा',
+  'reviews' => 'समीक्षा',
+  'Webinar_description' => 'इस पाठ्यक्रम के बारे में',
+  'post_comment' => 'तेज़ी से टिप्पणी करना',
+  'post_review' => 'पोस्ट -समीक्षा',
+  'comment_success_store' => 'टिप्पणी सफलतापूर्वक भेजी!',
+  'comment_success_store_msg' => 'आपकी टिप्पणी व्यवस्थापक द्वारा अनुमोदित के बाद प्रकाशित की जाएगी।',
+  'guarantee_text' => '5 दिन मनी बैक गारंटी',
+  'product_designer' => 'उत्पाद डिज़ाइनर',
+  'content_quality' => 'सामग्री गुणवत्ता',
+  'instructor_skills' => 'प्रशिक्षक कौशल',
+  'purchase_worth' => 'खरीद मूल्य',
+  'support_quality' => 'समर्थन गुणवत्ता',
+  'report_the_course' => 'रिपोर्ट पाठ्यक्रम',
+  'reason' => 'कारण',
+  'select_reason' => 'कोई कारण चुनें',
+  'report_modal_hint' => 'कृपया रिपोर्ट के बारे में छोटा और स्पष्ट रूप से वर्णन करें।',
+);

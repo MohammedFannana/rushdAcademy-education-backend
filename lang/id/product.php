@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'Kursus',
+  'courses' => 'Kursus',
+  'text_course' => 'Kursus teks',
+  'video_course' => 'Kursus Video',
+  'information' => 'Informasi',
+  'content' => 'Isi',
+  'review' => 'Tinjauan',
+  'reviews' => 'Ulasan',
+  'Webinar_description' => 'Tentang kursus ini',
+  'post_comment' => 'Kirim Komentar',
+  'post_review' => 'Posting ulasan',
+  'comment_success_store' => 'Komentar Dikirim dengan sukses!',
+  'comment_success_store_msg' => 'Komentar Anda akan diterbitkan setelah disetujui oleh admin.',
+  'guarantee_text' => '5 hari uang kembali jaminan',
+  'product_designer' => 'Desainer produk',
+  'content_quality' => 'Kualitas konten',
+  'instructor_skills' => 'Keterampilan instruktur',
+  'purchase_worth' => 'Worth Beli',
+  'support_quality' => 'Kualitas Dukungan',
+  'report_the_course' => 'Laporkan Kursus',
+  'reason' => 'Alasan',
+  'select_reason' => 'Pilih alasan',
+  'report_modal_hint' => 'Jelaskan tentang laporan pendek dan jelas.',
+);

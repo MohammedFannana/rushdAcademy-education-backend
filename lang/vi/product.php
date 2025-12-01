@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'course' => 'Khóa học',
+  'courses' => 'Khóa học',
+  'text_course' => 'Khóa học văn bản',
+  'video_course' => 'Khóa học video',
+  'information' => 'Thông tin',
+  'content' => 'Nội dung',
+  'review' => 'Ôn tập',
+  'reviews' => 'Đánh giá',
+  'Webinar_description' => 'Về khóa học này',
+  'post_comment' => 'Đăng bình luận',
+  'post_review' => 'Đánh giá bài',
+  'comment_success_store' => 'Nhận xét đã gửi thành công!',
+  'comment_success_store_msg' => 'Nhận xét của bạn sẽ được công bố sau khi được quản trị viên phê duyệt.',
+  'guarantee_text' => '5 ngày đảm bảo tiền trở lại',
+  'product_designer' => 'Người thiết kế sản phẩm',
+  'content_quality' => 'Chất lượng nội dung',
+  'instructor_skills' => 'Kỹ năng hướng dẫn',
+  'purchase_worth' => 'Mua giá trị',
+  'support_quality' => 'Chất lượng hỗ trợ',
+  'report_the_course' => 'Khóa học báo cáo',
+  'reason' => 'Lý do',
+  'select_reason' => 'Chọn một lí do',
+  'report_modal_hint' => 'Vui lòng mô tả về báo cáo ngắn và rõ ràng.',
+);
