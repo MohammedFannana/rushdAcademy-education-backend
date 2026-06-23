@@ -13,6 +13,6 @@ User Guide: Easy instructions for system management and progress tracking
 
 
 <img width="49%" height="912" alt="Gemini_Generated_Image_5kc5lx5kc5lx5kc5_edited" src="https://github.com/user-attachments/assets/2853ab8d-47ff-484f-b0e5-6cc5bae068f0" />
-<img width="49%" height="864" alt="Gemini_Generated_Image_3rrk5p3rrk5p3rrk_edited" src="https://github.com/user-attachments/assets/bedbadf1-4ada-4dde-9875-ac8c85d127cf" />
-<img width="49%" height="832" alt="Gemini_Generated_Image_ekkws3ekkws3ekkw_edited" src="https://github.com/user-attachments/assets/9421b87f-427c-4ea4-96c2-5fdb6ea74598" />
+<img width="49%" height="912" alt="Gemini_Generated_Image_3rrk5p3rrk5p3rrk_edited" src="https://github.com/user-attachments/assets/bedbadf1-4ada-4dde-9875-ac8c85d127cf" />
+<img width="49%" height="1024" alt="Gemini_Generated_Image_ekkws3ekkws3ekkw_edited" src="https://github.com/user-attachments/assets/9421b87f-427c-4ea4-96c2-5fdb6ea74598" />
 <img width="49%" height="1024" alt="b0abe49c-3379-4f97-8bc0-888838f3a5e4" src="https://github.com/user-attachments/assets/a2e8a26a-03cf-4c6d-a86c-2fe059e0b535" />
