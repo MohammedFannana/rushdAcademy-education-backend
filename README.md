@@ -10,7 +10,7 @@ Centralised Dashboard: Manage students, instructors, and courses in one place.
 Automated Processes: Simplify registration, attendance, and daily operations.
 User Guide: Easy instructions for system management and progress tracking
 
-
+<br>
 
 <img width="100%"  alt="Gemini_Generated_Image_5kc5lx5kc5lx5kc5_edited" src="https://github.com/user-attachments/assets/2853ab8d-47ff-484f-b0e5-6cc5bae068f0" />
 <img width="100%"  alt="b0abe49c-3379-4f97-8bc0-888838f3a5e4" src="https://github.com/user-attachments/assets/a2e8a26a-03cf-4c6d-a86c-2fe059e0b535" />
